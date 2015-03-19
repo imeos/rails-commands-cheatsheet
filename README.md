@@ -41,8 +41,9 @@ rails s
 # Stop the server
 Cntrl + C
 ```
-
-
+# Get stats on your Ruby on Rails code
+rake stats
+```
 
 # Rake commands
 ```
