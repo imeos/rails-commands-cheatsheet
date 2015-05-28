@@ -76,7 +76,7 @@ rake routes
 
 
 ## Git commands
-#### Initialise a git repository for your app
+#### Initialize a git repository for your app
 ```
 git init
 ```
